@@ -1,6 +1,6 @@
 # EXPERIMENT 1:
 
-## AIM: To implement CRC.
+## AIM: To compute CRC code for the polynomials CRC-12,CRC-18 and CRC-CCIP.
 
 ## PROCEDURE:
 

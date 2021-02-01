@@ -22,4 +22,6 @@
 
 ### if(visited[v] == 0) distance[v] = min(distance[v],distance[w]+cost[w][v])
 
+### OUTPUT :
+
 ![output](Dijsktras_Algorithm_Output.png)
